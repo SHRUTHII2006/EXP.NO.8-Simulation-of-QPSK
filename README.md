@@ -51,9 +51,11 @@ Compare the transmitted and received bits.
 
 # PROGRAM
 
-![qpsk 1](https://github.com/user-attachments/assets/f0069491-b1fa-4e36-b6f6-582044e71736)
+![DC QPSK 1](https://github.com/user-attachments/assets/ed092f61-205a-4fe6-adc8-6d272698cf53)
 
-![qpsk 2](https://github.com/user-attachments/assets/4736cf2a-0200-4f65-93b4-c782e20ef007)
+
+![DC QPSK 2](https://github.com/user-attachments/assets/1865f622-3f56-4560-af79-9ddbc9ec04a4)
+
 
 
 # OUTPUT
