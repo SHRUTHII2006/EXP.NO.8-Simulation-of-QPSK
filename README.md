@@ -51,13 +51,22 @@ Compare the transmitted and received bits.
 
 # PROGRAM
 
+![image](https://github.com/user-attachments/assets/70d4388b-74f4-47e1-8a73-68a73bd6a17c)
+
+
+![image](https://github.com/user-attachments/assets/f6e9f9ad-9389-48ca-85f6-0990cce21564)
+
+
+![image](https://github.com/user-attachments/assets/f9c310d7-6ef8-42be-88d8-cf818868d277)
+
 
 
 
 
 # OUTPUT
 
-![image](https://github.com/user-attachments/assets/0733fa83-5ff9-4822-9252-1a6d50fe1004)
+![image](https://github.com/user-attachments/assets/c71d79a1-b2ea-4c0d-9c3d-a3bd11051aed)
+
 
  
 # RESULT / CONCLUSIONS
